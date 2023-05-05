@@ -1,0 +1,5 @@
+IP: 158.160.12.94;
+name_taski: https://batiskaf-tasks.hopto.org/ ;
+name_kittygram: https://batiskaf-kittygram.myftp.org/ ;
+login: batiskaf;
+password: encoded; 
