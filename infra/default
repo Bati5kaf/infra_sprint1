@@ -36,7 +36,11 @@ server {
 
 
     listen 80;
+<<<<<<< HEAD
     server_name 158.160.12.94 batiskaf-tasks.hopto.org;
+=======
+    server_name batiskaf-tasks.hopto.org;
+>>>>>>> 7919a77a7a75861bf15f25736800a903ef64d396
     return 404;
 
 
